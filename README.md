@@ -13,7 +13,6 @@
 
 ### 大模型真实准确性 Badcase 评测与训练数据生产 Agent
 
-面向大模型真实性与时效性问题设计的交互式 Portfolio Case，展示从线上 Badcase 诊断到评测标准与结构化训练数据生成的完整链路。
+一份交互式项目 Case Study，通过项目背景、核心链路、亮点设计、应用效果与脱敏案例，呈现从线上 Badcase 诊断到评测标准及结构化训练数据生成的完整工作。
 
-[查看项目页面](https://hoqizz.github.io/agent-evaluation-portfolio/) · [查看 GitHub 仓库](https://github.com/Hoqizz/agent-evaluation-portfolio)
-
+[项目设计 & Case Study →](https://hoqizz.github.io/agent-evaluation-portfolio/)
