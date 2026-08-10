@@ -5,7 +5,7 @@
 
 - 🧠 有大模型评测、数据构造与 A/B 实验分析经验
 - 🛠️ 有 Agent 搭建与 AI Skill 设计开发经验
-- 📮 联系我：[zyzouye@163.com](mailto:zyzouye@163.com)
+- 📮 联系我：[zyzouye@163.com]
 
 ---
 
@@ -13,6 +13,5 @@
 
 ### 大模型真实准确性 Badcase 评测与训练数据生产 Agent
 
-一份交互式项目 Case Study，通过项目背景、核心链路、亮点设计、应用效果与脱敏案例，呈现从线上 Badcase 诊断到评测标准及结构化训练数据生成的完整工作。
-
+面向大模型真实性与时效性问题设计的交互式 Portfolio Case，展示从线上 Badcase 诊断到评测标准与结构化训练数据生成的完整链路。
 [项目设计 & Case Study →](https://hoqizz.github.io/agent-evaluation-portfolio/)
