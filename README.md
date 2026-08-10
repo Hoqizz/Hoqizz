@@ -5,7 +5,7 @@
 
 - 🧠 有大模型评测、数据构造与 A/B 实验分析经验
 - 🛠️ 有 Agent 搭建与 AI Skill 设计开发经验
-- 📮 联系我：[zyzouye@163.com]
+- 📮 联系我：zyzouye@163.com
 
 ---
 
